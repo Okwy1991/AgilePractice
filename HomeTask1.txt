@@ -9,3 +9,14 @@
 
 5.	The lecturer emphasized the importance of ethical considerations in data analytics, discussing issues such as privacy, bias, and fairness in data collection and analysis. This added a more critical and ethical dimension to the material.
 
+
+
+Theoretical concepts and formulas: Data analytics lectures often involve a lot of theoretical concepts and formulas that can be dry and difficult to follow for some students.
+
+Repetitive examples: Lecturers may use the same examples and case studies to explain different concepts, leading to a sense of boredom and monotony for students.
+
+Lack of real-world applications: Some data analytics lectures may focus too much on theory and not enough on practical, real-world applications of the concepts being taught. This can make the material seem disconnected from the students' everyday experiences.
+
+Lengthy lectures: Data analytics lectures can sometimes be long and dense, making it challenging for students to stay engaged and focused throughout the entire session.
+
+Lack of hands-on practice: Some data analytics lectures may not provide enough opportunities for students to practice applying the concepts they have learned, which can make the material less engaging and meaningful.
